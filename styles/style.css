@@ -401,23 +401,23 @@ body {
 
 
     .work-1{
-        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('/images/samples/1.jpg');
+        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('images/samples/1.jpg');
         
     }
     .work-2 {
-        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('/images/samples/2.jpg');
+        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('images/samples/2.jpg');
     }
     .work-3{
-        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('/images/samples/3.jpg');
+        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('images/samples/3.jpg');
     }
     .work-4{
-        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('/images/samples/4.jpg');
+        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('images/samples/4.jpg');
     }
     .work-5{
-        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('/images/samples/5.jpg');
+        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('images/samples/5.jpg');
     }
     .work-6{
-        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('/images/samples/6.jpg');
+        background-image:linear-gradient(#FF900E, rgba(0, 0, 0, 0)), url('images/samples/6.jpg');
     }
 
 .footer {
