@@ -869,6 +869,11 @@ padding: 10px;
 
 }
 
+
+        /*--------------------------
+            This is Tablet Site 
+        ----------------------------- */
+
 @media only screen and (min-width: 577px) and (max-width: 992px) {
 
     
